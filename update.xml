@@ -2,7 +2,7 @@
 <sharpUpdate>
 	<update appId ="TestApp"
 		<version>2.0.0.0</version>
-		<url>F:\Network\Update\TestApp.exe</url>
+		<url>https://rawgithubusercontent.com/ImperialApplications/SharpUpdate.update.xml</url>
 		<fileName>TestApp2.exe</fileName>
 		<md5>47210c6419c34296aa1d531f67ad82f9</md5>
 		<description>Intitial update</description>
