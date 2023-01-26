@@ -1,0 +1,11 @@
+<>xml version = "1.0"?>
+<sharpUpdate>
+	<update appID ="TestApp"
+		<version>2.0.0.0</version>
+		<url>F:\Network\Update\TestApp.exe</url>
+		<fileName>TestApp2.exe</fileName>
+		<md5>47210c6419c34296aa1d531f67ad82f9</md5>
+		<description>Intitial update</description>
+		<launchArgs></launchArgs>
+	</update>
+</sharpUpdate>
