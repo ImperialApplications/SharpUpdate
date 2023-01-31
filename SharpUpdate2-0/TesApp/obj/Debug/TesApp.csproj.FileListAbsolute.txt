@@ -1,0 +1,12 @@
+F:\Projects\SharpUpdate2-0\TesApp\obj\Debug\TesApp.csprojAssemblyReference.cache
+F:\Projects\SharpUpdate2-0\TesApp\obj\Debug\TesApp.Properties.Resources.resources
+F:\Projects\SharpUpdate2-0\TesApp\obj\Debug\TesApp.csproj.GenerateResource.cache
+F:\Projects\SharpUpdate2-0\TesApp\obj\Debug\TesApp.csproj.CoreCompileInputs.cache
+F:\Projects\SharpUpdate2-0\TesApp\obj\Debug\TesApp.Form1.resources
+F:\Projects\SharpUpdate2-0\TesApp\bin\Debug\TesApp.exe
+F:\Projects\SharpUpdate2-0\TesApp\bin\Debug\TesApp.pdb
+F:\Projects\SharpUpdate2-0\TesApp\bin\Debug\SharpUpdate2-0.dll
+F:\Projects\SharpUpdate2-0\TesApp\bin\Debug\SharpUpdate2-0.pdb
+F:\Projects\SharpUpdate2-0\TesApp\obj\Debug\TesApp.csproj.CopyComplete
+F:\Projects\SharpUpdate2-0\TesApp\obj\Debug\TesApp.exe
+F:\Projects\SharpUpdate2-0\TesApp\obj\Debug\TesApp.pdb

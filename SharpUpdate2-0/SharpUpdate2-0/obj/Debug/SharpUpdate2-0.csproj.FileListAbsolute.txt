@@ -1,0 +1,14 @@
+E:\Projects\SharpUpdate2-0\SharpUpdate2-0\obj\Debug\SharpUpdate2-0.csprojAssemblyReference.cache
+E:\Projects\SharpUpdate2-0\SharpUpdate2-0\obj\Debug\SharpUpdate2_0.Properties.Resources.resources
+E:\Projects\SharpUpdate2-0\SharpUpdate2-0\obj\Debug\SharpUpdate2-0.csproj.GenerateResource.cache
+E:\Projects\SharpUpdate2-0\SharpUpdate2-0\obj\Debug\SharpUpdate2-0.csproj.CoreCompileInputs.cache
+F:\Projects\SharpUpdate2-0\SharpUpdate2-0\obj\Debug\SharpUpdate2_0.Properties.Resources.resources
+F:\Projects\SharpUpdate2-0\SharpUpdate2-0\obj\Debug\SharpUpdate2-0.csproj.GenerateResource.cache
+F:\Projects\SharpUpdate2-0\SharpUpdate2-0\obj\Debug\SharpUpdate2-0.csproj.CoreCompileInputs.cache
+F:\Projects\SharpUpdate2-0\SharpUpdate2-0\obj\Debug\SharpUpdate2_0.SharpUpdateAcceptForm.resources
+F:\Projects\SharpUpdate2-0\SharpUpdate2-0\obj\Debug\SharpUpdate2_0.SharpUpdateDownloadForm.resources
+F:\Projects\SharpUpdate2-0\SharpUpdate2-0\obj\Debug\SharpUpdate2_0.SharpUpdateInfoForm.resources
+F:\Projects\SharpUpdate2-0\SharpUpdate2-0\bin\Debug\SharpUpdate2-0.dll
+F:\Projects\SharpUpdate2-0\SharpUpdate2-0\bin\Debug\SharpUpdate2-0.pdb
+F:\Projects\SharpUpdate2-0\SharpUpdate2-0\obj\Debug\SharpUpdate2-0.dll
+F:\Projects\SharpUpdate2-0\SharpUpdate2-0\obj\Debug\SharpUpdate2-0.pdb
