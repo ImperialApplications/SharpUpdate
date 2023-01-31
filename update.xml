@@ -2,7 +2,7 @@
 <SharpUpdate2-0>
 	<update>
 	<version>2.0.0.0>/version>
-	<url>https://raw.githubusercontent.com/ImperialApplications/SharpUpdate/main/update.xml</url>
+	<url>https://raw.githubusercontent.com/ImperialApplications/SharpUpdate/main/TesApp.exe</url>
 	<filePath>./TesApp.exe</filePath>
 	<md5>3d3fb055845e957fb881d476a5033b4d</md5>
 	<description>Update 01/31/2023: Update Test</description>
